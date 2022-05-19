@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-### My name is Marcos Weis, i developer web full stack 
+### My name is Marcos Weis, I am developer web full stack 
