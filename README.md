@@ -23,5 +23,5 @@
 - Sql server
 - C# (básico)
 - TypeSCript (básico)
-- Microsoft office
-- Ingles (básico
+
+
