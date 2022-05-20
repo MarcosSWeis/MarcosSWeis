@@ -21,7 +21,7 @@
 - Visual studio code
 - Manejo de Boostrap
 - Sql server
-- C# (básico)
+- C# (intermedio)
 - TypeSCript (básico)
 
 
