@@ -22,6 +22,6 @@
 - Manejo de Boostrap
 - Sql server
 - C# (intermedio)
-- TypeSCript (básico)
+- TypeSCript 
 
 
