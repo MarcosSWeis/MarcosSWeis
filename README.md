@@ -23,5 +23,8 @@
 - Sql server
 - C# (intermedio)
 - TypeSCript 
+- JWT
+- Redux
+- Context 
 
 
