@@ -21,7 +21,8 @@
 - Visual studio code
 - Manejo de Boostrap
 - Sql server
-- C# (intermedio)
+- C# 
+- Aspnet Core
 - TypeSCript 
 - JWT
 - Redux
