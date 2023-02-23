@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ### My name is Marcos Weis, I am developer web full stack and student
 
