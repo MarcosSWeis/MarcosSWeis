@@ -16,7 +16,7 @@
 - Blazor
 - MVC
 - Razor
-- Entity FrameWork
+- Entity Framework Core
 
 # Language
 - HTML
