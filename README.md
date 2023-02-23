@@ -4,28 +4,44 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Weis-2a9d8f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-weis-53702122a)
 
-## Tools
+# Framworks Java Script
 - Node Js
-- React
-- Express
+- React Js
+- Redux
+- Express Js
+- Sequelize
+
+# Framworks Microsoft
+- Asp .Net Core
+- Blazor
+- MVC
+- Razor
+- Entity FrameWork
+
+# Language
 - HTML
 - CSS
 - Javascript
 - MySQL
-- Creación y consumo de APIs
-- Git
-- Metodologías Ágiles - Scrum
-- Patrón de arquitectura MVC
-- Postman
-- Sequelize
-- Visual studio code
-- Manejo de Boostrap
+- C#
 - Sql server
-- C# 
-- Aspnet Core
 - TypeSCript 
+
+# Skills
+- Continuous learning
+- Creativity
+- Agile Methodologies - Scrum
+- Creation and consumption de APIs
+- Object Oriented programming
+
+## Tools
+- Git
+- Postman
+- Visual studio code
+- Visual studio
+- Boostrap
 - JWT
-- Redux
-- Context 
+- Boostrap
+- Jira -Project tracking
 
 
